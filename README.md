@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Akbar Sholikhin<br>💻 I'm Fullstack Developer
+👋 I'm Akbar Sholikhin<br>💻 I'm Backend Developer
 
 
 ## 🌐 Socials:
